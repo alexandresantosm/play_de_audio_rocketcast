@@ -5,7 +5,7 @@
 ### Easy
 
 - [x] Iniciar a estrutura do layout (HTML e CSS).
-- [x] Criar o play de audio.
-- [ ] Fazer o play tocar automaticamente quando a janela abrir.
-- [ ] Ok, me arrependi, o play tocando automaticamente é horrível. Remova esta opção de autoplay.
-- [ ] Alimentar o play com os dados de audio.
+- [x] Criar o player de audio.
+- [x] Fazer o player tocar automaticamente quando a janela abrir.
+- [x] Ok, me arrependi, o player tocando automaticamente é horrível. Remova esta opção de autoplay.
+- [ ] Alimentar o player com os dados de audio.
