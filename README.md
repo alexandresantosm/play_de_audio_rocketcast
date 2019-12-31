@@ -19,4 +19,4 @@
 ### Hard
 
 - [x] Iniciar a customização visual do player.
-- [ ] Adicionar funcionalidades par botões (Play/Pause, Volume, Mute e Seekbar).
+- [x] Adicionar funcionalidades par botões (Play/Pause, Volume, Mute e Seekbar).
