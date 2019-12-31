@@ -51,8 +51,9 @@ audio {
 #play-pause {
   background-color: var(--primary);
 }
-#volume {
+#mute {
   color: var(--primary);
+  transform: translateY(2px);
 }
 
 input[type="range"]::-webkit-slider-thumb {
